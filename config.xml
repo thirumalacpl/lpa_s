@@ -148,7 +148,7 @@
     <gap:splash src="SplashScreenImage.jpg" gap:platform="winphone"/>
     <gap:splash src="www/images/winphone/splash.jpg" gap:platform="winphone" />
   <!-- windows end --> 
-
+<gap:splash src="splash.png" />
   <access origin="*"/>
 </widget>
 
